@@ -1,0 +1,58 @@
+
+
+.title {
+	text-align: center;
+}
+
+
+img {
+	width: 300px;
+	height: 200px;
+	padding-top: 30px;
+}
+
+
+p {
+	margin: 0px;
+}
+
+form {
+	margin-bottom: 0px;
+	clear: both;
+	padding-top: 10px;
+}
+
+.edit_name {
+	float: left;
+	clear: right;
+	padding-left: 10px;
+
+}
+
+.name {
+	float: left;
+}
+
+.sku {
+	float: left;
+}
+
+.edit_sku {
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+
+.quantity {
+	float: left;
+}
+
+.edit_quantity {
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+
+
